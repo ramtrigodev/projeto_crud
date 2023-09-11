@@ -1,0 +1,13 @@
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\bin\Debug\estrutura_projeto.exe.config
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\bin\Debug\estrutura_projeto.exe
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\bin\Debug\estrutura_projeto.pdb
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.csprojResolveAssemblyReference.cache
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_login.resources
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.Properties.Resources.resources
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.csproj.GenerateResource.Cache
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.exe
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.pdb
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_principal.resources
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_crud_empregado.resources
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\bin\Debug\MySql.Data.dll
+C:\Users\rtrigo\Desktop\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_usuario.resources
